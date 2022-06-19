@@ -15,7 +15,7 @@ body {
 .door {  
   height: 662px;
   width: 276px;
-  background-image: url("door.png");
+  background-image: url("way.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
